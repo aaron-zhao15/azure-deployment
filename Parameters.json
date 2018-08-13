@@ -4,7 +4,7 @@
   "parameters": {
     "adminUserName": { "value": "GEN-UNIQUE" },
     "adminPassword": { "value": "GEN-PASSWORD" },
-	"domainName": { "value": "mydomain.local" },
-    "dnsPrefix": { "value": "GEN-UNIQUE"}
+	"domainName": { "value": "mydomain.local" }
+    
   }
 }
